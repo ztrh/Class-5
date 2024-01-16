@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&display=swap');
+
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+.sub{
+    width: 252px;
+    height: 388px;
+    background-color: #FFFFFF;
+}
+
+.main .save span{
+    width: 70px;
+    height: 25px;
+    display: inline-block;
+    background-color: purple;
+    color: #FFFFFF;
+    border-radius: 0 15px 15px 0;
+}
+
+
+.main .img{
+    text-align: center;
+}
+
+.ep span{
+    width: 70px;
+    height: 25px;
+    display: inline-block;
+    background-color: purple;
+    color: #FFFFFF;
+    border-radius: 0 35px 35px 0;
+}
+
+
+.price .p-p{
+    color: #EF4A23;
+}
+.price .del{
+    font-size: small ;
+    
+}
+
+
+.details a{
+    font-weight: bold ;
+    text-decoration: none;
+    color: blue ;
+}
