@@ -14,7 +14,7 @@ h1{
 }
 
 .main .save span{
-    width: 70px;
+    width: 80px;
     height: 25px;
     display: inline-block;
     background-color: purple;
@@ -28,7 +28,7 @@ h1{
 }
 
 .ep span{
-    width: 150px;
+    width: 105px;
     height: 25px;
     line-height: 25px;
     display: inline-block;
